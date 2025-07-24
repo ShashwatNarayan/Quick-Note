@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Python Basics",
+        "content": "Learn about lists, dicts, and loops",
+        "category": "coding",
+        "timestamp": "2025-07-24 19:45:43"
+    },
+    {
+        "id": 2,
+        "title": "Math Revision",
+        "content": "Practice calculus and probability",
+        "category": "study",
+        "timestamp": "2025-07-24 19:45:44"
+    },
+    {
+        "id": 3,
+        "title": "Buy Milk",
+        "content": "1L Amul milk from store",
+        "category": "personal",
+        "timestamp": "2025-07-24 19:45:44"
+    }
+]
